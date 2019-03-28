@@ -1,0 +1,16 @@
+<!document type>
+  <html>
+    <head>
+      <meat charset="utf-8"/>
+      /*<meat charset="gb2312"*/
+      <title></title>
+      /*外联引入方式*/
+     <link  rel="stylesheet" type="text/css" href=""/>
+     /*内联*/
+     <style>
+     </style>
+     <script></script>
+    </head>
+    <body>
+    </body>
+  </html>
