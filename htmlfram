@@ -1,4 +1,4 @@
-<!document type>
+﻿<!document type>
   <html>
     <head>
       <meat charset="utf-8"/>
@@ -14,3 +14,15 @@
     <body>
     </body>
   </html>
+
+
+
+mkdir +文件名  --------------新建一个文件
+git init --------------------初始化仓库
+git clone +网址--------------克隆这个网址
+git status 检查差异文件
+git add . 加入全部文件
+git add +差异文件名
+git commit -m ‘2454’  加备注
+git remote add origin +网址
+git push -u origin master
